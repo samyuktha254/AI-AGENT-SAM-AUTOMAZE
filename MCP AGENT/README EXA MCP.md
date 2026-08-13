@@ -1,4 +1,4 @@
-[README EXA MCP (1).md](https://github.com/user-attachments/files/31021489/README.EXA.MCP.1.md)[Uploading # 🔍 Web Research AI Agent — n8n + Exa MCP
+ Web Research AI Agent — n8n + Exa MCP
 
 A conversational AI agent built in n8n that uses **Exa's MCP server** to perform live web search and page fetching. Demonstrates external MCP integration with an n8n AI Agent node using HTTP Streamable transport.
 
